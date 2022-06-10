@@ -19,8 +19,8 @@
 
             Console.ReadKey();
             Console.WriteLine("yooo");
-            Console.WriteLine("hejsan");
-            Console.WriteLine("goodBye");
+            Console.WriteLine("yooo");
+            Console.WriteLine("yooo");
         }
     }
 }
