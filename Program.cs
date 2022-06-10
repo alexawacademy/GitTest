@@ -19,6 +19,8 @@
 
             Console.ReadKey();
             Console.WriteLine("yooo");
+            Console.WriteLine("yooo");
+            Console.WriteLine("yooo");
         }
     }
 }
