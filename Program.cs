@@ -10,6 +10,8 @@
             
             Cars myCar = new Cars("Honda","Civic");
 
+            var person = new Person("Ajax", 25);
+
             Console.ReadKey();
         }
     }
