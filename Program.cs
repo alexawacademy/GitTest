@@ -15,6 +15,7 @@
             Person person2 = new Person("Emanuel", 29);
 
             Console.ReadKey();
+            Console.WriteLine("yooo");
         }
     }
 }
