@@ -10,9 +10,9 @@
             
             Cars myCar = new Cars("Honda","Civic");
 
-            var person = new Person("Ajax", 25);
+            Person person = new Person("Ajax", 25);
 
-            Person person1 = new Person("Emanuel", 29);
+            Person person2 = new Person("Emanuel", 29);
 
             Console.ReadKey();
         }
