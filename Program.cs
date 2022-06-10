@@ -14,6 +14,8 @@
 
             Person person2 = new Person("Emanuel", 29);
 
+            var car2 = new Car2("Honda", "civic");
+
             if(System.Diagnostics.Debugger.IsAttached)
                 System.Diagnostics.Debugger.Break();
 
