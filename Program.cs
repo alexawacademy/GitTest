@@ -14,6 +14,9 @@
 
             Person person2 = new Person("Emanuel", 29);
 
+            if(System.Diagnostics.Debugger.IsAttached)
+                System.Diagnostics.Debugger.Break();
+
             Console.ReadKey();
         }
     }
